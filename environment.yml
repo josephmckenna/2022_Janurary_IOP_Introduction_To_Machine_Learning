@@ -10,3 +10,4 @@ dependencies:
   - matplotlib-base
   - ipympl
   - root
+  - tensorflow
