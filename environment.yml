@@ -9,5 +9,6 @@ dependencies:
   - numpy
   - matplotlib-base
   - ipympl
-  - root
-  - tensorflow
+  - torch
+  - torchvision
+  - efficientnet_pytorch
