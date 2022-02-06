@@ -9,6 +9,4 @@ dependencies:
   - numpy
   - matplotlib-base
   - ipympl
-  - torch
   - torchvision
-  - efficientnet_pytorch
